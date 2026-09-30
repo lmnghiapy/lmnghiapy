@@ -8,8 +8,9 @@
 
 <table>
 <tr>
+
 <td width="20%" align="center">
-  ⚡
+  <img src="./assets/vivian.gif" width="100">
 </td>
 
 <td width="60%" align="center">
@@ -19,8 +20,9 @@
 </td>
 
 <td width="20%" align="center">
-  ⚡
+  <img src="./assets/vivian.gif" width="100">
 </td>
+
 </tr>
 </table>
 
