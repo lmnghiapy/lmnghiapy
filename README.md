@@ -33,7 +33,7 @@
 ### ⚡ Hello, World! I'm Le Minh Nghia
 
 🏫 **Computer Engineering Undergraduate @ UIT - VNUHCM** 🌐  
-📍 Base of Operations: **Ho Chi Minh City, Vietnam 🇻🇳**
+📍 Base of Operations: **Ho Chi Minh City, Vietnam**
 
 🛰️ **Core Competencies:**
 
