@@ -14,7 +14,7 @@
 
 <td width="60%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2500&pause=800&color=2788F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Le+Minh+Nghia;RTL+%26+Digital+Design;Design+Verification;Computer+Engineering+%40+UIT" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2500&pause=800&color=2788F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Le+Minh+Nghia;RTL+%26+Digital+Design;Design+Verification;Computer+Engineering+Student" />
 
 </td>
 
