@@ -28,7 +28,7 @@
 
 </div>
 
-## 🪨 System Architecture & Profile
+## 🎓 System Architecture & Profile
 
 ### ⚡ Hello, World! I'm Le Minh Nghia
 
