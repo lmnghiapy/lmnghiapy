@@ -9,7 +9,7 @@
 <table>
 <tr>
 
-<td width="20%" align="center">
+<td width="15%" align="center">
   <img src="./assets/vivian.gif" width="100">
 </td>
 
@@ -19,7 +19,7 @@
 
 </td>
 
-<td width="20%" align="center">
+<td width="15%" align="center">
   <img src="./assets/vivian.gif" width="100">
 </td>
 
