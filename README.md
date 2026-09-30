@@ -238,7 +238,7 @@ Accepted for oral presentation and publication in **Springer's Lecture Notes in 
 </a>
 
 <!-- THAY LINKEDIN_URL bằng link LinkedIn thật của m -->
-<a href="[LINKEDIN_URL](https://www.linkedin.com/in/lmnghia/)">
+<a href="https://www.linkedin.com/in/lmnghia">
 <img src="https://img.shields.io/badge/LINKEDIN_NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -249,11 +249,3 @@ Accepted for oral presentation and publication in **Springer's Lecture Notes in 
 </div>
 
 ---
-
-<div align="center">
-
-`RTL Design` • `Design Verification` • `Digital Logic` • `FPGA`
-
-### From algorithms to gates.
-
-</div>
