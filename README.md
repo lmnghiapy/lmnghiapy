@@ -2,7 +2,7 @@
 
 <!-- ===================== BANNER ===================== -->
 
-<img src="./assets/sakura.gif" width="55%" alt="sakura banner"/>
+<img src="./assets/sakura.gif" width="80%" alt="sakura banner"/>
 
 <br><br>
 
