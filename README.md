@@ -227,16 +227,6 @@ Accepted for oral presentation and publication in **Springer's Lecture Notes in 
 
 ---
 
-## 📈 Engineering Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lmnghiapy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmnghiapy&layout=compact&hide_border=true" />
-
-</div>
-
 ---
 
 ## 📬 Transmission Channels
