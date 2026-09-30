@@ -132,6 +132,7 @@ Verified with **ModelSim + Python image streaming**, achieving:
 - **PSNR: 33.24 dB**
 - **SSIM: 0.9608**
 <br>
+
 ![Verilog](https://img.shields.io/badge/Verilog-005A8D?style=flat-square)
 ![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-2563EB?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-CoSim-3776AB?style=flat-square)
