@@ -131,9 +131,7 @@ Implemented a **loop-free median filter core** in Verilog for real-time salt-and
 
 Replaced iterative behavioral loops with **parallel comparison logic** for synthesizable RTL implementation.
 
-Verified with **ModelSim + Python image streaming**, achieving:
-- **PSNR: 33.24 dB**
-- **SSIM: 0.9608**
+Verified with **ModelSim + Python image streaming**, achieving: PSNR: **33.24 dB** and **SSIM: 0.9608**
 <br>
 
 ![Verilog](https://img.shields.io/badge/Verilog-005A8D?style=flat-square)
