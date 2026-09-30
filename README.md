@@ -233,12 +233,12 @@ Accepted for oral presentation and publication in **Springer's Lecture Notes in 
 
 <div align="center">
 
-<a href="mailto:lmnghiapy@gmail.com">
+<a href="lmnghiapy@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <!-- THAY LINKEDIN_URL bằng link LinkedIn thật của m -->
-<a href="LINKEDIN_URL">
+<a href="[LINKEDIN_URL](https://www.linkedin.com/in/lmnghia/)">
 <img src="https://img.shields.io/badge/LINKEDIN_NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
