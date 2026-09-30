@@ -2,14 +2,14 @@
 
 <!-- ===================== BANNER ===================== -->
 
-<img src="./assets/sakura.gif" width="80%" alt="sakura banner"/>
+<img src="./assets/sakura.gif" width="50%" alt="sakura banner"/>
 
 <br><br>
 
 <table>
 <tr>
 
-<td width="15%" align="center">
+<td width="5%" align="center">
   <img src="./assets/vivian.gif" width="100">
 </td>
 
@@ -19,7 +19,7 @@
 
 </td>
 
-<td width="15%" align="center">
+<td width="5%" align="center">
   <img src="./assets/vivian.gif" width="100">
 </td>
 
