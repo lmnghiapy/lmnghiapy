@@ -233,7 +233,7 @@ Accepted for oral presentation and publication in **Springer's Lecture Notes in 
 
 <div align="center">
 
-<a href="lmnghiapy@gmail.com">
+
 <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
