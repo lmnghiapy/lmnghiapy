@@ -35,10 +35,6 @@
 🏫 **Computer Engineering Undergraduate @ UIT - VNUHCM** 🌐  
 📍 Base of Operations: **Ho Chi Minh City, Vietnam 🇻🇳**
 
-🔋 I work close to the hardware layer — translating algorithms and digital concepts into **synthesizable RTL architectures, pipelined datapaths, and verifiable digital systems**.
-
-<br>
-
 🛰️ **Core Competencies:**
 
 - 🔹 **RTL Design** — Verilog, SystemVerilog, synthesizable datapaths, FSMs
