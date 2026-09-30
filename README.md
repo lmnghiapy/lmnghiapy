@@ -114,6 +114,7 @@ Verified against **NIST FIPS-197 test vectors** and synthesized in Vivado target
 ![Vivado](https://img.shields.io/badge/Vivado-FPGA-1D4ED8?style=flat-square)
 ![AES](https://img.shields.io/badge/AES--256-Cryptography-334155?style=flat-square)
 
+
 <br>
 
 [**View Project →**](https://github.com/lmnghiapy/AES_256_Pipeline)
