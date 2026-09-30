@@ -38,7 +38,6 @@
 🛰️ **Core Competencies:**
 
 - 🔹 **RTL Design** — Verilog, SystemVerilog, synthesizable datapaths, FSMs
-- 🧪 **Design Verification** — Testbenches, functional simulation, waveform debugging
 - 🔐 **Hardware Cryptography** — AES-256 architecture and pipelined implementation
 - 🖼️ **Image Processing Hardware** — Streaming image pipelines and hardware filtering
 - 🏗️ **Computer Architecture** — Datapaths, control logic, and digital system design
