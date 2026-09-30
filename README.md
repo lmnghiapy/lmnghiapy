@@ -106,7 +106,9 @@ Achieves sustained processing of **one 128-bit block per cycle after initial pip
 Verified against **NIST FIPS-197 test vectors** and synthesized in Vivado targeting a **265 MHz Fmax on Virtex-7**.
 
 
+
 <br>
+
 
 ![Verilog](https://img.shields.io/badge/Verilog-005A8D?style=flat-square)
 ![Vivado](https://img.shields.io/badge/Vivado-FPGA-1D4ED8?style=flat-square)
